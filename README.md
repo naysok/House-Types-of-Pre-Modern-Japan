@@ -4,7 +4,7 @@
 
 ---  
 
-#### Outline  
+### Outline  
 
 (1) intro to Japanese Folk House (Minka) / 180413  
 
@@ -27,7 +27,7 @@
 ---  
 
 
-#### Essay Theme  
+### Essay Theme  
 
 (1) How would you rate open air museum as a way of keeping and presenting old houses/building? / -180420  
 
@@ -42,6 +42,8 @@ They were a special case, but what general influences and processes do you think
 
 (6)
 
-(7)
+(7) / -180601  
 
-(8)
+(8) / -180601 (!!)  
+
+180601 は、2つ提出物  
